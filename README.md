@@ -2,7 +2,7 @@
 #### 一个第三方哔哩哔哩TV和Pad客户端，仅供学习与交流。
 #### A third-party bilibili client for TV &amp; Pad, For learning and communication only。
 https://install.appcenter.ms/users/xiaxiaoao/apps/bbll/distribution_groups/publicgroup
-![mmexport1670577031264](https://user-images.githubusercontent.com/4136777/206944375-72c3c1f5-4b44-4d20-a0f3-f8990d3fc920.jpg)
+![mmexport1670577013522](https://user-images.githubusercontent.com/4136777/206945372-b5dcbbf3-666c-4363-802c-1eab37a5ada8.jpg)
 ![mmexport1670577031264](https://user-images.githubusercontent.com/4136777/206944384-cec7d03b-a0ea-4b2e-b7bb-c8dc730ed482.jpg)
 ![mmexport1670577023653](https://user-images.githubusercontent.com/4136777/206944388-b33cb609-0fb3-43ed-a709-a5beb7814367.jpg)
 ![mmexport1670577020437](https://user-images.githubusercontent.com/4136777/206944395-45f983ef-4ef2-4525-9811-695a650f5452.jpg)
