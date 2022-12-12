@@ -1,5 +1,6 @@
 # BBLL
-一个第三方哔哩哔哩TV和Pad客户端，A third-party bilibili client for TV &amp; Pad。
+####一个第三方哔哩哔哩TV和Pad客户端，仅供学习与交流。
+####A third-party bilibili client for TV &amp; Pad, For learning and communication only。
 
 ![mmexport1670577031264](https://user-images.githubusercontent.com/4136777/206944375-72c3c1f5-4b44-4d20-a0f3-f8990d3fc920.jpg)
 ![mmexport1670577031264](https://user-images.githubusercontent.com/4136777/206944384-cec7d03b-a0ea-4b2e-b7bb-c8dc730ed482.jpg)
