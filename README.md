@@ -1,11 +1,19 @@
 # BBLL
+
+![ic_launcher_tv](https://user-images.githubusercontent.com/4136777/207619332-6f4f2959-32d6-4596-9d8f-a9eff20edd4f.png)
+
 #### 一个第三方哔哩哔哩TV和Pad客户端，仅供学习与交流。
 #### A third-party bilibili client for TV &amp; Pad, For learning and communication only。
 https://install.appcenter.ms/users/xiaxiaoao/apps/bbll/distribution_groups/publicgroup
-![mmexport1670577013522](https://user-images.githubusercontent.com/4136777/206945372-b5dcbbf3-666c-4363-802c-1eab37a5ada8.jpg)
-![mmexport1670577031264](https://user-images.githubusercontent.com/4136777/206944384-cec7d03b-a0ea-4b2e-b7bb-c8dc730ed482.jpg)
-![mmexport1670577023653](https://user-images.githubusercontent.com/4136777/206944388-b33cb609-0fb3-43ed-a709-a5beb7814367.jpg)
-![mmexport1670577020437](https://user-images.githubusercontent.com/4136777/206944395-45f983ef-4ef2-4525-9811-695a650f5452.jpg)
-![mmexport1670577029082](https://user-images.githubusercontent.com/4136777/206944408-34887223-5d78-43d0-9366-b21cccc96dc3.jpg)
-![mmexport1670577036338](https://user-images.githubusercontent.com/4136777/206944414-e4935067-f95e-4eee-934f-369aa6992c8a.jpg)
-![mmexport1670577038251](https://user-images.githubusercontent.com/4136777/206944422-25b19562-73db-4365-9b14-3afdced9e359.jpg)
+
+![Screenshot_20221214_221019](https://user-images.githubusercontent.com/4136777/207618719-d9b056bd-7670-4eb1-a625-a36697799d64.jpg)
+
+![Screenshot_20221214_221049](https://user-images.githubusercontent.com/4136777/207618757-04f78552-a3d2-47df-93f0-aa4a18328ed9.jpg)
+
+![Screenshot_20221214_221107](https://user-images.githubusercontent.com/4136777/207618788-674dc2eb-20a4-415b-90d1-ed40ed346c92.jpg)
+
+![Screenshot_20221214_221118](https://user-images.githubusercontent.com/4136777/207618806-a71ae146-3cc4-4275-8703-617f5525cef8.jpg)
+
+![Screenshot_20221214_221132](https://user-images.githubusercontent.com/4136777/207618838-f291994a-794f-46d7-8a70-152ec32e032b.jpg)
+
+![Screenshot_20221214_221246](https://user-images.githubusercontent.com/4136777/207618871-0f60beb4-511e-4c9b-92a1-5cc97ddf3321.jpg)
