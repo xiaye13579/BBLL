@@ -16,6 +16,8 @@ https://install.appcenter.ms/users/xiaxiaoao/apps/bbll/distribution_groups/publi
 
 ![Screenshot_20221214_221132](https://user-images.githubusercontent.com/4136777/207618838-f291994a-794f-46d7-8a70-152ec32e032b.jpg)
 
-![Screenshot_20221214_221246](https://user-images.githubusercontent.com/4136777/207618871-0f60beb4-511e-4c9b-92a1-5cc97ddf3321.jpg)
-
 ![Screenshot_20221226_104229](https://user-images.githubusercontent.com/4136777/209492983-13252c7a-c071-45b8-90bb-3b2db789cdf7.jpg)
+
+![Screenshot_20230107_214807](https://user-images.githubusercontent.com/4136777/211154128-99c1c43c-5b3f-4eeb-9322-c30d3366ff8e.jpg)
+
+![Screenshot_20230107_215425](https://user-images.githubusercontent.com/4136777/211154340-6b75b2bd-ba8d-4995-84fc-4238a38e9db0.jpg)
