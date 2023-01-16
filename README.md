@@ -6,7 +6,13 @@
 #### A third-party bilibili client for TV &amp; Pad, For learning and communication only。
 https://install.appcenter.ms/users/xiaxiaoao/apps/bbll/distribution_groups/publicgroup
 
-![Screenshot_20221214_221019](https://user-images.githubusercontent.com/4136777/207618719-d9b056bd-7670-4eb1-a625-a36697799d64.jpg)
+![Screenshot_20230116_205116](https://user-images.githubusercontent.com/4136777/212699296-1c16fe4c-a05b-4b96-8286-046ef45db049.jpg)
+
+![Screenshot_20230116_215628](https://user-images.githubusercontent.com/4136777/212699334-a0588272-06ba-468f-98b3-ebe2f9f52292.jpg)
+
+![Screenshot_20230116_215751](https://user-images.githubusercontent.com/4136777/212699355-58f78642-61aa-4b7c-88d4-0c659b15d3be.jpg)
+
+![Screenshot_20230116_215809](https://user-images.githubusercontent.com/4136777/212699371-ebf47163-48e1-4bb1-9560-169d643622bc.jpg)
 
 ![Screenshot_20221214_221049](https://user-images.githubusercontent.com/4136777/207618757-04f78552-a3d2-47df-93f0-aa4a18328ed9.jpg)
 
