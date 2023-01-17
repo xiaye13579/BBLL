@@ -4,7 +4,7 @@
 
 #### 一个第三方哔哩哔哩TV和Pad客户端，仅供学习与交流使用。
 #### A third-party bilibili client for TV &amp; Pad, For learning and communication only。
-https://install.appcenter.ms/users/xiaxiaoao/apps/bbll/distribution_groups/publicgroup
+[Download](https://install.appcenter.ms/users/xiaxiaoao/apps/bbll/distribution_groups/publicgroup)
 
 ![Screenshot_20230117_101427](https://user-images.githubusercontent.com/4136777/212796202-8e657da6-c3ab-4fdc-8eaa-4d9d3e054811.jpg)
 
@@ -19,3 +19,13 @@ https://install.appcenter.ms/users/xiaxiaoao/apps/bbll/distribution_groups/publi
 ![Screenshot_20230117_101530](https://user-images.githubusercontent.com/4136777/212796239-b872489f-3a04-4802-80da-9d467072b57c.jpg)
 
 ![Screenshot_20230117_101612](https://user-images.githubusercontent.com/4136777/212796248-b0f18319-f3e9-40ec-b6ba-e3c744b215be.jpg)
+
+## Q&A
+#### 软件收费吗？
+BBLL是个学习交流应用，不存在收费内容。部分功能需要B站的会员才可以使用，仅需要开网页/手机端会员即可使用全部功能。大家还是多支持支持叔叔的会员，可以看1080P以上的视频。
+
+#### 如何刷新当前页面
+左侧点击高亮的Tab即可刷新当前页面
+
+#### 无法播放的问题
+应用播放功能基于硬件解码，暂时未加入其他软件解码器。不敢保证所有设备都可以正常播放视频，播放失败可以尝试切换视频清晰度和视频编码来试试。后续可能有计划加入外置软件解码，但可能会导致应用体积变大。
