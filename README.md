@@ -2,8 +2,8 @@
 
 ![ic_launcher_tv](https://user-images.githubusercontent.com/4136777/207619332-6f4f2959-32d6-4596-9d8f-a9eff20edd4f.png)
 
-#### 一个第三方哔哩哔哩TV和Pad客户端，仅供学习与交流使用。
-#### A third-party bilibili client for TV &amp; Pad, For learning and communication only。
+#### 一个第三方哔哩哔哩TV和Pad客户端，仅供学习与交流使用。该应用仅作为个人兴趣开发，应用没有任何破解行为，只是对于B站已有的API进行封装，所有数据来自于B站官方API，本人不对内容负责。应用通过firebase和appcenter收集的数据包括用户设备相关信息，以及崩溃日志，不会收集你的个人信息。
+#### A third-party bilibili client for TV &amp; Pad, For learning and communication only. This application is developed as a personal interest. BBLL does not have any cracking behavior, but only encapsulates the existing API of Bilibili. All data comes from the official API of Bilibili. I am not responsible for the content. The data collected by the app through firebase and appcenter includes user device information and crash logs, and your personal information will not be collected.
 [Download](https://install.appcenter.ms/users/xiaxiaoao/apps/bbll/distribution_groups/publicgroup)
 
 ## Q&A
@@ -15,6 +15,9 @@ BBLL是个学习交流应用，不存在收费内容。部分功能需要B站的
 
 #### 无法播放的问题
 应用播放功能基于硬件解码，暂时未加入其他软件解码器。不敢保证所有设备都可以正常播放视频，播放失败可以尝试切换视频清晰度和视频编码来试试。后续可能有计划加入外置软件解码，但可能会导致应用体积变大。
+
+#### 两个apk文件的区别
+release版本只能用于android 5.0以上（包含5.0）的系统。api19是做了android4.4的兼容处理的版本。
 
 ## 应用截图 Screenshot
 
