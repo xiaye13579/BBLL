@@ -2,8 +2,8 @@
 
 ![ic_launcher_tv](https://user-images.githubusercontent.com/4136777/207619332-6f4f2959-32d6-4596-9d8f-a9eff20edd4f.png)
 
-#### 一个第三方哔哩哔哩TV和Pad客户端，仅供学习与交流使用。该应用仅作为个人兴趣开发，应用没有任何破解行为，只是对于B站已有的API进行封装，所有数据来自于B站官方API，本人不对内容负责。应用通过firebase和appcenter收集的数据包括用户设备相关信息，以及崩溃日志，不会收集你的个人信息。
-#### A third-party bilibili client for TV &amp; Pad, For learning and communication only. This application is developed as a personal interest. BBLL does not have any cracking behavior, but only encapsulates the existing API of Bilibili. All data comes from the official API of Bilibili. I am not responsible for the content. The data collected by the app through firebase and appcenter includes user device information and crash logs, and your personal information will not be collected.
+#### 一个第三方哔哩哔哩客户端，仅供学习与交流使用。该应用仅作为个人兴趣开发，应用没有任何破解行为，只是对于B站已有的API进行封装，所有数据来自于B站官方API，本人不对内容负责。应用通过firebase和appcenter收集的数据包括用户设备相关信息，以及崩溃日志，不会收集你的个人信息。
+#### A third-party bilibili client, For learning and communication only. This application is developed as a personal interest. BBLL does not have any cracking behavior, but only encapsulates the existing API of Bilibili. All data comes from the official API of Bilibili. I am not responsible for the content. The data collected by the app through firebase and appcenter includes user device information and crash logs, and your personal information will not be collected.
 
 🔗[下载链接](https://install.appcenter.ms/users/xiaxiaoao/apps/bbll/distribution_groups/publicgroup)
 🔗[隔壁A站客户端ACAC](https://github.com/xiaye13579/ACAC)
